@@ -47,9 +47,9 @@ public class Main {
         printStaircase(5);
     }
 }
-
+<br>
 8. <br>
-```java
+
 import java.lang.Math;
 
 public class Main {
