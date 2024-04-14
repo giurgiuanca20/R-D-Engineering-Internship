@@ -28,6 +28,7 @@ I would say that it is like a genie that can show or teach you almost anything, 
 
 
 7. <br>
+```java
 public class Main {
     public static void printStaircase(int n) {
         for (int i = 1; i <= n; i++) {
