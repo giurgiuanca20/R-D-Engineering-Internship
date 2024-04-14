@@ -1,4 +1,4 @@
-# R-D-Engineering-Internship
+# R&D-Engineering-Internship
 
 1. **Explain the difference between a stack and a queue. Provide real life examples of real-life scenarios where each of them are used appropriately.** <br>
 A *stack* is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It's like a stack of papers, you have to take the first, then the second paper, etc. You can't take the last one without taking them all first. <br>
