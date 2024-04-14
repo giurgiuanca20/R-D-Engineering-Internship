@@ -52,7 +52,8 @@ public class Main {
 </pre>
 <br>
 8. <br>
-
+<pre>
+  <code class="language-java">
 import java.lang.Math;
 
 public class Main {
@@ -81,3 +82,5 @@ public class Main {
         encrypt(text);
     }
 }
+</code>
+</pre>
