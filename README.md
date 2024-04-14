@@ -28,7 +28,8 @@ I would say that it is like a genie that can show or teach you almost anything, 
 
 
 7. <br>
-```java
+<pre>
+  <code class="language-java">
 public class Main {
     public static void printStaircase(int n) {
         for (int i = 1; i <= n; i++) {
@@ -47,6 +48,8 @@ public class Main {
         printStaircase(5);
     }
 }
+</code>
+</pre>
 <br>
 8. <br>
 
