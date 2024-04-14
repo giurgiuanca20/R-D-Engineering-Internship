@@ -4,7 +4,7 @@
 A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It's like a stack of papers, you have to take the first, then the second paper, etc. You can't take the last one without taking them all first.
 A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It's like a line(queue) at the store, first come, first served.
 
-2.**What is the difference between an array and a linked list? Provide advantages and disadvantages of each data structure.**
+2. **What is the difference between an array and a linked list? Provide advantages and disadvantages of each data structure.**
 An array is a static data structure, meaning the size is fixed at the time of creation. It allows fast access to elements but inserting and deleting elements can be slow as elements need to be shifted.
 A linked list is a dynamic data structure, meaning the size can change during the execution of the program. It allows fast insertion and deletion of elements but accessing elements can be slower compared to arrays.
 
